@@ -44,3 +44,5 @@ Launch: Deploy the website to a live server.
 Regular Updates: Keep content and design elements up-to-date.
 Monitor Performance: Use analytics to track visitor behavior and make improvements.
 Security: Regularly update software and plugins to keep the site secure.
+![Screenshot 2024-07-08 200311](https://github.com/Sangeetha-maker/CODTECH-Task1/assets/175023042/e6d52a4c-33e0-4632-8bc3-191bbe793744)
+!
